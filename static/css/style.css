@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+
+h2{
+    color:white;
+    font-size: 22px;
+}
+
+.header{
+    background-color: azure;
+}
+
+#banner{
+    background-color: aquamarine;
+}
+
+section{
+    background-color: orange;
+}
+
+.banner-css{
+    background-color: brown;
+}
+
+
+
