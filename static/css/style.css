@@ -27,6 +27,7 @@ section{
 .nav {
     display: flex;
     padding: 10px;
+    background-color: black;
 }
 
 .nav li {
